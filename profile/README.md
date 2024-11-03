@@ -1,1 +1,1 @@
-The demo application is now available as a <a href="https://core.telegram.org/bots/webapps" target="_blank">Telegram Mini App</a> for the <a href="https://t.me/FCeiling_bot" target="_blank">FCeiling</a> bot.
+The demo application is now available as a [Telegram Mini App](https://core.telegram.org/bots/webapps) for the [FCeiling](https://t.me/FCeiling_bot) bot.
